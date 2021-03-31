@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+# Yuzi Lyu's Self-Introduction
+![Personal Picture](personalpic.jpg)
+## A novice programmer
+[The original picture can be found here](/personalpic.jpg)
 
-You can use the [editor on GitHub](https://github.com/yuzilyu/Introduction/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+My [Linkedin](https://www.linkedin.com/in/yuzi-lyu-13658a1a3/)
+## Summary
+To quote Alan Turing:
+> We can only see a short distance ahead, but we can see plenty there that needs to be done
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I am passionate about using my knowledge to solve real-world problems. I am a restorative leader and consistent self-starter. I am dutiful with responsibilities and adapt quickly to new software/framework.
 
-### Markdown
+## Education
+Bachelor of Science at University of California, San Diego   
+**_Expected June ~~2023~~ 2022_**
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Publication
+I am super passionate about computing education research with an emphasis on Non-Native English Speakers learning. Currently I am working with [Professor Soosai Raj @ University of California, San Diego](https://adalbertgerald.github.io/) 
 
-```markdown
-Syntax highlighted code block
+You can find my publication here:
 
-# Header 1
-## Header 2
-### Header 3
 
-- Bulleted
-- List
 
-1. Numbered
-2. List
+1. [_A Qualitative Analysis of Lecture Videos and Student Feedback on Static Code Examples and Live Coding: A Case Study_](https://dl.acm.org/doi/abs/10.1145/3441636.3442317?casa_token=mwQ4yyVzCDIAAAAA%3AU4biypZ5yVg-HIHLUlRBfb1yKJEL89Si-dPox9VAmqSeA7WP7weJdJpmjLnKh3bW3kju7EbWOgGpTQ)
+	- This study gives a qualitative analysis on the differences and similarities between the pedagogical use of Static Code Examples and Live Coding
+2. Currently working on the stress level and the sense of belonging of Non-Native English Speakers
+	- no publication yet
 
-**Bold** and _Italic_ and `Code` text
+**Feel free to _reach out to me_ if you are also interested in this kind of research.**
 
-[Link](url) and ![Image](src)
+## Campus Involvement
+- Currently a Computer Science and Engineering Tutor for **_CSE8B: Intro to Java II._**
+- Project Chair of Computer Science and Engineering Society at UC San Diego. Learn more about Tri-Dev program [here](https://ucsdcses.github.io/tridev/)
+
+## Future Endeavors
+I will be joining ServiceNow this summer as a Software Engineering Intern.
+
+## About this Lab
+Many git commands were reviewed in this lab. Commands suchs as 
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/yuzilyu/Introduction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+git add
+git branch
+git checkout
+git clone
+git commit
+git push
+```
